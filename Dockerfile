@@ -2,7 +2,7 @@ FROM alpine:3.7
 
 MAINTAINER Shingo Omura <https://github.com/everpeace/docker-kubectl>
 
-ARG KUBE_VERSION="1.9.2"
+ARG KUBE_VERSION="1.9.4"
 
 RUN apk add --update ca-certificates && \
     apk add --update -t deps curl && \
