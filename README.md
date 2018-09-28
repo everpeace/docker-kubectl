@@ -12,3 +12,5 @@ To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
 
 ## versions
 - `everpeace/kubectl:1.9.2`
+- `everpeace/kubectl:1.9.4`
+
