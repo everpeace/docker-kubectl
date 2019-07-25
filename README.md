@@ -14,4 +14,4 @@ To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
 - `everpeace/kubectl:1.9.2`
 - `everpeace/kubectl:1.9.4`
 - `everpeace/kubectl:1.11.1`
-
+- `everpeace/kubectl:1.15.1`
